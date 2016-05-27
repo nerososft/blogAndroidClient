@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ABUG</string>
+    <string name="bottom_sy">论坛</string>
+    <string name="bottom_wo">我</string>
+    <string name="urlpath">网络图片地址</string>
+    <string name="button">显示</string>
+    <string name="error">网络连接超时</string>
+</resources>
